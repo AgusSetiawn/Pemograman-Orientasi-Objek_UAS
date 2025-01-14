@@ -10,13 +10,9 @@ Proyek ini adalah aplikasi **CRUD Mahasiswa** yang dibangun menggunakan **Java**
 - **Mata Kuliah:** Pemrograman Berorientasi Objek  
 - **Dosen:** Agung Nugroho, S.Kom., M.Kom.
 
----
-
 ## Deskripsi Proyek
 
 Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah **Pemrograman Berorientasi Objek (OOP)** dengan menerapkan konsep dasar **CRUD** (Create, Read, Update, Delete). CRUD digunakan untuk mengelola data mahasiswa melalui antarmuka berbasis Java yang terhubung dengan MySQL untuk penyimpanan data. Program ini memanfaatkan pola desain **MVC** untuk memisahkan antara tampilan pengguna, logika bisnis, dan pengelolaan data.
-
----
 
 ## Arsitektur MVC
 
@@ -27,8 +23,6 @@ Arsitektur **MVC** digunakan untuk memisahkan tugas dan tanggung jawab dalam apl
 - **View:** Bagian ini berfungsi sebagai antarmuka pengguna. View menampilkan informasi kepada pengguna dan menerima input dari mereka. Antarmuka ini dapat berupa form-form untuk input data mahasiswa dan nilai.
 
 - **Controller:** Controller berfungsi untuk menghubungkan Model dan View. Ia menangani interaksi pengguna, memproses data yang dimasukkan, dan memerintahkan Model untuk melakukan operasi tertentu (seperti menambah, memperbarui, atau menghapus data). Setelah itu, Controller memberi perintah kepada View untuk menampilkan hasilnya.
-
----
 
 ## Alur Kerja Program
 
@@ -43,8 +37,6 @@ Berikut adalah langkah-langkah alur kerja dari program ini:
 7. **Operasi Database:** **Model** akan berinteraksi dengan MySQL untuk melakukan operasi sesuai perintah (misalnya menambah atau menghapus data).
 8. **Menampilkan Hasil:** Setelah operasi selesai, **View** akan menampilkan hasilnya kembali kepada pengguna.
 
----
-
 ## Fitur Program
 
 Program ini menyediakan beberapa fitur utama untuk pengelolaan data mahasiswa dan nilai mereka, antara lain:
@@ -54,8 +46,6 @@ Program ini menyediakan beberapa fitur utama untuk pengelolaan data mahasiswa da
 - **Update:** Memperbarui data mahasiswa atau nilai yang sudah ada.
 - **Delete:** Menghapus data mahasiswa atau nilai yang dipilih dari database.
 
----
-
 ## Dokumentasi Output
 
 Berikut adalah beberapa tampilan output dari program ini:
@@ -64,8 +54,6 @@ Berikut adalah beberapa tampilan output dari program ini:
 2. **Form Nilai:** Form untuk memasukkan nilai mata kuliah mahasiswa yang mencakup kolom untuk kode mata kuliah, nilai, dan lainnya.
 3. **Create Nilai:** Tampilan form untuk menambahkan nilai baru bagi mahasiswa.
 4. **Update Nilai:** Tampilan form untuk memperbarui nilai yang sudah ada untuk mahasiswa tertentu.
-
----
 
 ## Video Penjelasan
 
