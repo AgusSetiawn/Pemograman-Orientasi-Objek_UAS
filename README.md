@@ -58,7 +58,7 @@ Berikut adalah beberapa tampilan output dari program ini:
 ## Video Penjelasan
 
 Untuk pemahaman lebih mendalam tentang pembuatan dan implementasi proyek ini, Anda bisa menonton penjelasan lengkap melalui video berikut:  
-[Klik di sini untuk menonton di YouTube]()
+[Klik di sini untuk menontonnya di YouTube](https://youtu.be/g4Mn3V7_nk4?si=85ZQwCqEIhx6pXOt)
 
 ---
 
