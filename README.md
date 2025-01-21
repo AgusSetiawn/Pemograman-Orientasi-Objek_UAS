@@ -5,7 +5,7 @@ Proyek ini adalah aplikasi **CRUD Mahasiswa** yang dibangun menggunakan **Java**
 ## Identitas Proyek
 
 - **Nama:** Agus Setiawan
-- **NIM:** 312310507  
+- **NIM:** 312310597  
 - **Kelas:** TI.23.A6  
 - **Mata Kuliah:** Pemrograman Berorientasi Objek  
 - **Dosen:** Agung Nugroho, S.Kom., M.Kom.
@@ -51,9 +51,9 @@ Program ini menyediakan beberapa fitur utama untuk pengelolaan data mahasiswa da
 Berikut adalah beberapa tampilan output dari program ini:
 
 1. **Form Mahasiswa:** Form untuk memasukkan data mahasiswa yang mencakup informasi seperti nama, NIM, jurusan, dan lainnya.
+   ![img](FormMahasigma.png)
 2. **Form Nilai:** Form untuk memasukkan nilai mata kuliah mahasiswa yang mencakup kolom untuk kode mata kuliah, nilai, dan lainnya.
-3. **Create Nilai:** Tampilan form untuk menambahkan nilai baru bagi mahasiswa.
-4. **Update Nilai:** Tampilan form untuk memperbarui nilai yang sudah ada untuk mahasiswa tertentu.
+   ![img](FormNilai.png)
 
 ## Video Penjelasan
 
